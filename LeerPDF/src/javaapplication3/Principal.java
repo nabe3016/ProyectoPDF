@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-//VERSION ALFA 29-06-2017
+
 package javaapplication3;
 
 import java.awt.image.BufferedImage;
